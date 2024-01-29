@@ -20,7 +20,7 @@
 - Python 3.9 or later installed.
 - Docker installed (optional).
 
-`     `**5.SETUP:**
+**5.SETUP:**
 
 - Clone the repository-
   “<https://github.com/PearlThoughts/banker-Ai>”
